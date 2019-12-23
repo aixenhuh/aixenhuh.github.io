@@ -1,6 +1,6 @@
 ---
 layout : post
-title: "리엑트란 무엇인가"
+title: "What is React?"
 date: 2019-12-23 08:26:28 -0400
 categories: React
 tags : [React]
