@@ -9,16 +9,19 @@ owner :
   description : "wow"
   github : aixenhuh
   
-# Defaults
 defaults:
-  # _posts
   - scope:
-      path: ""
-      type: posts
+      path: ''
+      type: authors
     values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout: author
+  - scope:
+      path: ''
+      type: tags
+    values:
+      layout: tag
+  - scope:
+      path: 'events'
+    values:
+      layout: page
+      sitemap: true
