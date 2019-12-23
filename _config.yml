@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+title : aixenhuh's blog
+share : true
+url : "https://aixenhuh.github.io"
+baseurl : ""
+owner : 
+  name : "Song JY"
+  email : "aixenhuh@gmail.com"
+  description : "wow"
+  github : aixenhuh
+  
