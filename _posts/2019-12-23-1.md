@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : page
 title: "What is React?"
 date: 2019-12-23 08:26:28 -0400
 categories: React
