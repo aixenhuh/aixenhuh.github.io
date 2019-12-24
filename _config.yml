@@ -1,5 +1,8 @@
 remote_theme: jekyll/minima
-title : aixenhuh's blog
+title : JY's Blog
+author : aixenhuh
+email : aixenhuh@gmail.com
+description : 여러 공부하면서 생각 적어놓은 공간입니다.
 share : true
 url : "https://aixenhuh.github.io"
 baseurl : ""
@@ -25,3 +28,31 @@ defaults:
     values:
       layout: page
       sitemap: true
+
+# Minima date format
+minima:
+  date_format: "%b %-d, %Y"
+  # generate social links in footer
+  social_links:
+    # twitter: jekyllrb
+    github: aixenhuh
+    rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+    
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
