@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+remote_theme: chrisbobbe/jekyll-theme-prologue
 title: 초보 개발자의 생각 끄적끄적 메모장
 author: aixenhuh
 email: aixenhuh@gmail.com
@@ -47,6 +48,7 @@ defaults:
     values:
       layout: page
       sitemap: true
+github_username:  aixenhuh
 
 # Build settings
 theme: minima
