@@ -54,8 +54,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-category_dir : category/
-tag_dir : tag/
+categories: [React, github ]
+category_dir: category/
+tag_dir: tag/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
