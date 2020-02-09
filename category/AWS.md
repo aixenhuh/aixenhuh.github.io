@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Github
-permalink: /category/Github
+title: AWS
+permalink: /category/AWS
 icon: th-list
 type: page
 ---
